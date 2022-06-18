@@ -35,3 +35,8 @@ Una vez accedido se presentará la siguiente pantalla principal, para iniciar a 
 
 De gran utilidad para facilitar el aprendizaje y/o enriquecer los conocimientos acerca del tema. Y asimismo para desafiar y retroalimentar los conocimientos obtenidos a lo largo de la interacción con la teoría y multimedia existente en el software educativo sobre Expresiones Regulares.
 
+## Autor ✒️
+
+* **MC. Cinthia Maribel González Segura** - *Coordinación* - [Cinhtia](https://github.com/cinhtia)
+* **Br. Alejandro Emmanuel Canche Kú** - *Diseño y desarrollo* - [AlejandroCancheKu](https://github.com/AlejandroCancheKu)
+* **Br. Randy Josue Castro** - *Revisión Pedagógica y Animaciones*
