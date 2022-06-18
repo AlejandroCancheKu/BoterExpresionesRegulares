@@ -27,7 +27,7 @@ Diseñar y desarrollar un software educativo sobre expresiones regulares para re
 Acceso a la página web: [Boter - Expresiones Regulares](https://alejandrocanche.github.io/projectExpresionesRegulares/)
 Una vez accedido se presentará la siguiente pantalla principal, para iniciar a utilizar el software educativo, basta con dar clic en el botón Comenzar.
 
-![1](https://user-images.githubusercontent.com/101384740/174455658-7659a719-b353-4e75-8907-b6dde2d60f43.png)
+![1](https://user-images.githubusercontent.com/101384740/174455735-b423efe9-fb68-4bac-9ee0-b0593036dca8.png)
 
 
 
