@@ -22,17 +22,22 @@ Diseñar y desarrollar un software educativo sobre expresiones regulares para re
   - Revisión de gramática y ortografía del contenido en el software educativo
   - Se acreditó que las funcionalidades del software educativo estén completas y en buen funcionamiento.
 
-## Guía de Interacción
+## Guía Rápido de Interacción
 
 Acceso a la página web: [Boter - Expresiones Regulares](https://alejandrocanche.github.io/projectExpresionesRegulares/)
 Una vez accedido se presentará la siguiente pantalla principal, para iniciar a utilizar el software educativo, basta con dar clic en el botón **Comenzar**.
 
 ![1](https://user-images.githubusercontent.com/101384740/174455735-b423efe9-fb68-4bac-9ee0-b0593036dca8.png)
 
+![2](https://user-images.githubusercontent.com/101384740/174455903-f3f88723-0cc8-4b60-b5e3-ead2c7466391.png)
+
 Una vez estando en la pantalla anterior, se puede interactuar dando clic en los elementos de navegación de la parte superior **(Inicio, Menú, Créditos, Opciones)**.
+
+![3](https://user-images.githubusercontent.com/101384740/174455909-b6a38b78-fdbd-4ef5-8831-7092cb914762.png)
 
 El contenido con el cual el usuario interactuará se encuentra al interior del Menú, donde podrá navegar dando clic en los botones **(Teoría, Ejemplos, Actividades, Evaluación)**.
 
+![4](https://user-images.githubusercontent.com/101384740/174455912-2bcc5ff8-2ecd-4302-878d-16839da60ce3.png)
 
 
 
